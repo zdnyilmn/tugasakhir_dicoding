@@ -44,8 +44,8 @@ pip install -r requirements.txt
 3. **Visualization**: Run the Streamlit dashboard for interactive data exploration:
 
 ```
-cd tugasakhir_dicoding/dashboard
-streamlit run dashboard.py
+cd tugasakhir_dicoding
+streamlit run dashboard/dashboard.py
 ```
 Access the dashboard in your web browser at `http://localhost:8501`.
 
